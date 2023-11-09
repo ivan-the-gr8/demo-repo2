@@ -9,3 +9,7 @@ How are you doing?
 ## Local Development
 
 1. This is different
+
+### VSCode Hacks
+
+1. This is VSCode hacks
